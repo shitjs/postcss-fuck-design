@@ -1,0 +1,15 @@
+{
+  "name": "postcss-pixel-imperfect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Viacheslav Slinko <vslinko@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^5.0.21",
+    "tape": "^4.6.0"
+  }
+}
